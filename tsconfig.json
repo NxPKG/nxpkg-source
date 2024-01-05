@@ -14,7 +14,7 @@
     "declaration": true,
     "baseUrl": ".",
     "paths": {
-      "@nrwl/schematics": [
+      "@nxpkg/schematics": [
         "./packages/schematics"
       ]
     }

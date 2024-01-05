@@ -1,0 +1,11 @@
+{
+  "name": "@nxpkg/schematics",
+  "version": "0.0.1",
+  "description": "Nxpkg Extensions for Angular: Schematics",
+  "main": "index.js",
+  "types": "index.d.js",
+  "peerDependencies" :{},
+  "author": "Victor Savkin",
+  "license": "MIT",
+  "schematics": "./src/collection.json"
+}
